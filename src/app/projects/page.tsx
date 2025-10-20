@@ -251,7 +251,7 @@ export default function Projets() {
               </h3>
 
               <Link
-                href="https://github.com/"
+                href="https://mid-portfolio-gamma.vercel.app/"
                 target="_blank"
                 className="block w-full h-48 rounded-lg overflow-hidden border-4 border-[#FFD93B] shadow-md mb-6 transition-transform duration-300 hover:scale-105"
               >
@@ -265,7 +265,7 @@ export default function Projets() {
               </Link>
 
               <Link
-                href="https://github.com/"
+                href="https://github.com/minyeong0125/mid-portfolio"
                 target="_blank"
                 className="bg-[#FFD93B] text-[#76B5FF] font-semibold py-2 px-6 rounded-full hover:bg-white hover:text-[#FFD93B] transition-colors duration-700"
               >
