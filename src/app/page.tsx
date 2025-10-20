@@ -36,7 +36,7 @@ export default function Projets() {
 
       <main className="flex flex-col items-center justify-center flex-grow text-center px-4 py-16">
         <h1 className="text-white text-5xl sm:text-4xl font-extrabold mb-4 drop-shadow-lg tracking-wider">
-          Welcome to Minyeong's Page!
+          Welcome to Minyeong&apos;s Page!
         </h1>
         <p className="text-white text-2xl sm:text-2xl font-semibold mb-12 drop-shadow-md">
           92410756 박민영
