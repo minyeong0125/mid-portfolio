@@ -44,7 +44,7 @@ export default function Projets() {
 
         <div className="w-64 h-64 rounded-2xl overflow-hidden border-4 border-[#FFD93B] shadow-lg mb-8">
           <Image
-            src="/gbwl.jpeg"
+            src="/1.jpeg"
             alt="Character"
             width={256}
             height={256}
